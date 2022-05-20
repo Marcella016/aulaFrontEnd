@@ -1,11 +1,11 @@
 .nav{
     font-size: 25px;
     padding: 40px;
-    background-color: #002;
+    background-color: rgb(28, 163, 134);
 }
 
 body{
-    background-color: #003;
+    background-color: #6DA0A6
 }
 
 #foto{
@@ -15,14 +15,23 @@ body{
     border-radius: 50%;
 }
     .d-block{
-        margin-left: 350px;
+        margin-left: 360px;
         margin-top: 80px;
         margin-right: 750px;
         border-bottom: 80px;
     }
     .titulo{
         font-size:large ;
-        color: aliceblue;
+        color: rgb(6, 6, 7);
         text-align: center;
         margin-top: 80px;
     }
+
+    .body-jogos{
+        background-color: #090C38;
+    }
+    .body-series{
+        background-color:#2D425F;
+    }
+    .body-filmes{
+        background-color:#04BFBF    }    
