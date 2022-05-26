@@ -34,4 +34,24 @@ body{
         background-color:#2D425F;
     }
     .body-filmes{
-        background-color:#04BFBF    }    
+        background-color:#04BFBF 
+    }
+
+.grid-item{
+    margin: 30px;
+}    
+
+.texto-footer{
+    .grid-container{
+        display: flex;
+        grid-template-columns: auto auto auto;
+        padding: 5px;
+    }
+    
+    .grid-item{
+        display: flex;
+        font-size: 15px;
+        color: white;
+        padding: 30px; 
+    }
+}
